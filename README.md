@@ -1,10 +1,29 @@
-- 👋 Hi, I’m wilfredmuriithi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm Wilfred
+
+💻 Software Developer passionate about solving real-world problems with tech
+🚀 Currently working on web apps, bots, and automation tools
+
+---
+
+ 🛠️ Tech Stack
+
+* JavaScript | Python
+* Node.js | Express
+* HTML | CSS
+
+---
+
+ 📌 Featured Projects
+
+* 🔹 Project Name – Short description
+* 🔹 Project Name – Short description
+
+---
+
+📫 Contact Me
+
+* Email:wilfredmuriithi8@gmail.com
+  
 
 <!---
 Wizlymuriish/Wizlymuriish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
